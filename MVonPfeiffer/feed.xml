@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:4F29C27D-99FF-4E42-8EE2-5A5696FD0C69</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-12-08T11:34:44-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BD192C9C-AFFE-4509-818D-C13B52F8E458</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">BD192C9C-AFFE-4509-818D-C13B52F8E458</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2015-12-08T11:34:44.001-06:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4FD91309-ACC3-4804-95BD-58D3691322C4</id>
+  <title>Ad Work</title>
+  <title xmlns="urn:iweb:">Ad Work</title>
+  <in-navbar xmlns="urn:iweb:">4FD91309-ACC3-4804-95BD-58D3691322C4</in-navbar>
+  <link rel="alternate" href="Ad_Work.html"/>
+  <updated>2015-12-08T11:34:44.002-06:00</updated>
+  <content>Ad Work</content>
+ </entry>
+</feed>
